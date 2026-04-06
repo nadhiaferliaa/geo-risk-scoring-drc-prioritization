@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "top3_kandidat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "source_layer": "top3_kandidat", "fid": 812.0, "grid_id": 812.0, "total_score": 4.2, "suitability_class": "Highly Suitable", "road_score": 5.0, "flood_risk_class": "SEDANG", "flood_score": 3.0, "elevation_mean": 51.773489451004288, "elevation_score": 5.0, "landuse_class": "BUILT AREA", "landuse_score": 5 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 107.077155921052537, -6.302119303061761 ], [ 107.086190935876033, -6.302083232732732 ], [ 107.086227090005167, -6.311123414771004 ], [ 107.077191918878029, -6.311159537245967 ], [ 107.077155921052537, -6.302119303061761 ] ] ] ] } },
+{ "type": "Feature", "properties": { "source_layer": "top3_kandidat", "fid": 1256.0, "grid_id": 1256.0, "total_score": 4.2, "suitability_class": "Highly Suitable", "road_score": 5.0, "flood_risk_class": "SEDANG", "flood_score": 3.0, "elevation_mean": 38.538817205481763, "elevation_score": 5.0, "landuse_class": "BUILT AREA", "landuse_score": 5 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 107.140252081536815, -6.265704037995373 ], [ 107.149286098698525, -6.265667088696146 ], [ 107.149323128991824, -6.274706912736183 ], [ 107.140288956472304, -6.274743915755559 ], [ 107.140252081536815, -6.265704037995373 ] ] ] ] } },
+{ "type": "Feature", "properties": { "source_layer": "top3_kandidat", "fid": 1324.0, "grid_id": 1324.0, "total_score": 4.2, "suitability_class": "Highly Suitable", "road_score": 5.0, "flood_risk_class": "SEDANG", "flood_score": 3.0, "elevation_mean": 40.967157580152318, "elevation_score": 5.0, "landuse_class": "BUILT AREA", "landuse_score": 5 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 107.149434546599409, -6.301826364856836 ], [ 107.158469132097594, -6.301789044418712 ], [ 107.158506536491814, -6.310828801156873 ], [ 107.149471794726608, -6.310866175548123 ], [ 107.149434546599409, -6.301826364856836 ] ] ] ] } }
+]
+}

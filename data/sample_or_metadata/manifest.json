@@ -1,0 +1,129 @@
+[
+  {
+    "layer_name": "grid_scorefixxx22",
+    "source_file": "gridscore_fixxx2.shp",
+    "target_file": "grid_scorefixxx22.geojson",
+    "feature_count": 1377,
+    "crs": "EPSG:4326",
+    "fields": [
+      "source_layer",
+      "fid",
+      "grid_id",
+      "total_score",
+      "suitability_class",
+      "road_score",
+      "flood_risk_class",
+      "flood_score",
+      "elevation_mean",
+      "elevation_score",
+      "landuse_class",
+      "landuse_score"
+    ]
+  },
+  {
+    "layer_name": "highlysuitable",
+    "source_file": "highlysuitable.shp",
+    "target_file": "highlysuitable.geojson",
+    "feature_count": 195,
+    "crs": "EPSG:4326",
+    "fields": [
+      "source_layer",
+      "fid",
+      "grid_id",
+      "total_score",
+      "suitability_class",
+      "road_score",
+      "flood_risk_class",
+      "flood_score",
+      "elevation_mean",
+      "elevation_score",
+      "landuse_class",
+      "landuse_score"
+    ]
+  },
+  {
+    "layer_name": "rank_highlysuitable",
+    "source_file": "rank_highlysuitable.shp",
+    "target_file": "rank_highlysuitable.geojson",
+    "feature_count": 195,
+    "crs": "EPSG:4326",
+    "fields": [
+      "source_layer",
+      "fid",
+      "grid_id",
+      "total_score",
+      "suitability_class",
+      "road_score",
+      "flood_risk_class",
+      "flood_score",
+      "elevation_mean",
+      "elevation_score",
+      "landuse_class",
+      "landuse_score",
+      "rank"
+    ]
+  },
+  {
+    "layer_name": "top5_kandidat",
+    "source_file": "top5_kandidat.geojson",
+    "target_file": "top5_kandidat.geojson",
+    "feature_count": 5,
+    "crs": "EPSG:4326",
+    "fields": [
+      "source_layer",
+      "fid",
+      "grid_id",
+      "total_score",
+      "suitability_class",
+      "road_score",
+      "flood_risk_class",
+      "flood_score",
+      "elevation_mean",
+      "elevation_score",
+      "landuse_class",
+      "landuse_score"
+    ]
+  },
+  {
+    "layer_name": "top3_kandidat",
+    "source_file": "top3_kandidat.geojson",
+    "target_file": "top3_kandidat.geojson",
+    "feature_count": 3,
+    "crs": "EPSG:4326",
+    "fields": [
+      "source_layer",
+      "fid",
+      "grid_id",
+      "total_score",
+      "suitability_class",
+      "road_score",
+      "flood_risk_class",
+      "flood_score",
+      "elevation_mean",
+      "elevation_score",
+      "landuse_class",
+      "landuse_score"
+    ]
+  },
+  {
+    "layer_name": "top1_kandidat",
+    "source_file": "top1_kandidat.geojson",
+    "target_file": "top1_kandidat.geojson",
+    "feature_count": 1,
+    "crs": "EPSG:4326",
+    "fields": [
+      "source_layer",
+      "fid",
+      "grid_id",
+      "total_score",
+      "suitability_class",
+      "road_score",
+      "flood_risk_class",
+      "flood_score",
+      "elevation_mean",
+      "elevation_score",
+      "landuse_class",
+      "landuse_score"
+    ]
+  }
+]

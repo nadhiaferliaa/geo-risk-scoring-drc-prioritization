@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kandidat2_Kawasan Industri EJIP, Cikarang Selatan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1071.0, "id": 1071.0, "left": 7.0, "top": 9.0, "right": 7.0, "bottom": 9.0, "roadscore": 5.0, "rbKELAS_RI": "SEDANG", "rbfloodsco": 3.0, "elevelevme": 65.769966505467892, "elevelevsc": 5.0, "lu_CLASS": "BUILT AREA", "lu_landuse": 5, "scoretotal": 4.2, "CLASS2": "Highly Suitable" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 107.113405691948557, -6.329094146791119 ], [ 107.122440963479534, -6.32905729221716 ], [ 107.122477904145271, -6.338097253367271 ], [ 107.113442475643168, -6.3381341609961 ], [ 107.113405691948557, -6.329094146791119 ] ] ] ] } }
+]
+}
